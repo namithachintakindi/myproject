@@ -1,2 +1,3 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<img width="1800" height="1199" alt="fraud detection" src="https://github.com/user-attachments/assets/c2494612-aa74-41e4-b626-74de8aaf6a9f" />
+<img width="1800" height="1199" alt="fraud detection " src="https://github.com/user-attachments/assets/42ce492c-d4cb-42fe-be34-0804fdfb064f" />
+
